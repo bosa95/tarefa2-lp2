@@ -11,6 +11,4 @@ T = temperatura
 e calcule a massa de ar desse pneu segundo a fórmula (M = massa de ar):
 PV = 0.37M(T+460)
 
-3 - Faça um programa que leia o primeiro termo de uma Progressão Aritmética (PA), sua razão, um número N e, a seguir, calcule e mostre o N-ésimo
-
-termo da PA.
+3 - Faça um programa que leia o primeiro termo de uma Progressão Aritmética (PA), sua razão, um número N e, a seguir, calcule e mostre o N-ésimo termo da PA.
