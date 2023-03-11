@@ -1,4 +1,4 @@
-# tarefa2-lp2
+# Tarefa 2 - Códigos para Revisão
 
 1 -  Escreva um programa que leia uma temperatura em graus Farenheit e a imprima em graus Centígrados. A conversão de graus Farenheit para Centígrados é obtida por C=(5/9)(F-32).
 
